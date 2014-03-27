@@ -9,7 +9,6 @@ Java 6 or later.
 ## Install
 
 	mvn install
-	mvn test
 	
 ## Usage
 
