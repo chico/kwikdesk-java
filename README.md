@@ -14,4 +14,4 @@ Java 6 or later.
 ## Usage
 
 	SearchResponse response = KwikDesk.api.search("#kwikdesk");
-	KwikDesk.api.message("This is the message I want to post #kwikdesk");
+	KwikDesk.api.message(new Message("This is the message I want to post #kwikdesk"));
