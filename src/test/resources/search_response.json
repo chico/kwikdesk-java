@@ -1,0 +1,11 @@
+{
+    "error": 0,
+    "results": [
+    	{
+	    	"content": "The message that contains the search #term",
+	    	"created_at": 1391423252,
+	    	"expires": 1400063252,
+	      	"expires_dt": "2014-05-14 10:27:32.000000Z"
+    	}
+  	]
+}
