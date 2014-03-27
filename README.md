@@ -6,7 +6,12 @@ The KwikDesk Java client provides a simple interface to the [KwikDesk API](https
 
 Java 6 or later.
 
-## Usage
+## Install
 
 	mvn install
 	mvn test
+	
+## Usage
+
+	SearchResponse response = KwikDesk.api.search("#kwikdesk");
+	KwikDesk.api.message("This is the message I want to post #kwikdesk");
